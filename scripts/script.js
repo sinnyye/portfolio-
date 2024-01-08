@@ -3,4 +3,4 @@ $(document).ready(function () {
         window.location.href = 'main_page.html';
     } )
 
-})
+}). 
