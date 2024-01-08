@@ -42,7 +42,7 @@ header {
 
 main {
   display: flex;
-  border: 10px white;
+  border: 10px solid white;
   border-radius: 10px; 
 }
 
@@ -51,7 +51,7 @@ aside {
   background-color: #f4f4f4;
   padding: 1em;
   float: right;
-  border: 10px white;
+  border: 10px solid #74e595;
   border-radius: 10px; 
 }
 
