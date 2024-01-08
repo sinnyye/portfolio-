@@ -42,12 +42,17 @@ header {
 
 main {
   display: flex;
+  border: 10px white;
+  border-radius: 10px; 
 }
 
 aside {
   width: 200px;
   background-color: #f4f4f4;
   padding: 1em;
+  float: right;
+  border: 10px white;
+  border-radius: 10px; 
 }
 
 section {
@@ -63,6 +68,8 @@ footer {
   position: fixed;
   bottom: 0;
   width: 100%;
+  border: 10px white;
+  border-radius: 10px; 
 }
 
 
