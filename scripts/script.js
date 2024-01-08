@@ -1,3 +1,6 @@
-document.getElementById('redirectToMainButton').addEventListener('click', function() {
-    window.location.href = 'main.html';
+$(document).ready(function () {
+    $('#cow-button').click(function () {
+        window.location.href = 'main_page.html';
+    } )
+
 })
