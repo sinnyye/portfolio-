@@ -6,7 +6,8 @@ body{
 
 .home-page p {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  color:#ff9193
+  color:#ff9193;
+  text-align: center;
 }
 
 .home-page button{
