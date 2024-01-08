@@ -1,11 +1,33 @@
 body{
   background-color: #FFD5D6; 
-  border: 2px dotted white;
+  border: 10px dotted white;
+  border-radius: 10px; 
 }
 
 .home-page p {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  color:aqua
-  
+  color:#ff9193
 }
+
+.home-page button{
+  border: none;
+  background: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+}
+
+.home-page{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+
+.home-page img{
+
+  width:100px;
+  height:auto;
+}
+
 
